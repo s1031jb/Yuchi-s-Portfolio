@@ -32,7 +32,7 @@ const Portfolio = () => {
     linkedin: "https://www.linkedin.com/in/yuchi-chang-762440150/", 
     // 重要：請確保您的照片檔名是 S__32661507.jpg 並且放在 public 資料夾中
     // 部署到 GitHub Pages 時，路徑通常建議使用絕對路徑或 import 方式，這邊使用根目錄引用
-    image: "/S__32661507.jpg" 
+    image: "https://github.com/user-attachments/assets/e3565282-0128-431d-9b22-127be05c7d3b" 
   };
 
   const projects = [
